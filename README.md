@@ -1,6 +1,8 @@
 # emacs-shortcuts-in-macos
 A tutorial (sort of) so I can remember what emacs keyboard shortcuts are in macOS
 
+[Jump to the commands](#Emacs-key-bindings-that-work-in-macOS)
+
 ## Introduction
 
 I'm dating myself here, but I started using emacs probably in 1989 or 1990. All through the 90s and early 00s, I used emacs for *everything*. I read my mail and usenet news in it with VM and Gnus, browsed the web in emacs/W3, kept my address book in my editor with BBDB, and used it as my code IDE, web dev environment, and general text editor. I wrote my first few fiction books exclusively in emacs, was a tech editor for the SAMS book _Teach Yourself Emacs_ back in 1999, and helped my longtime friend Bill Perry with the emacs/W3 docs.
