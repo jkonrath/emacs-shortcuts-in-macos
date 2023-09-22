@@ -19,8 +19,6 @@ Anyway, enough rambling about my life; this isn't a recipe page, and I don't nee
 
 ## Emacs key bindings that work in macOS
 
-I'm going to use a lazier version of the Apple convention and say **Cmd**, **Ctrl**, **Opt**, **Shift**, and **Esc**. 
-
 Legend:
 
 * **Command**: the <kbd>⌘</kbd> key.
