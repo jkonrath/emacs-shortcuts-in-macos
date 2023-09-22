@@ -5,7 +5,7 @@ A tutorial (sort of) so I can remember what emacs keyboard shortcuts are in macO
 
 ## Introduction
 
-I'm dating myself here, but I started using emacs probably in 1989 or 1990. All through the 90s and early 00s, I used emacs for *everything*. I read my mail and usenet news in it with VM and Gnus, browsed the web in emacs/W3, kept my address book in my editor with BBDB, and used it as my code IDE, web dev environment, and general text editor. I wrote my first few fiction books exclusively in emacs, was a tech editor for the SAMS book _Teach Yourself Emacs_ back in 1999, and helped my longtime friend Bill Perry with the emacs/W3 docs.
+I'm dating myself here, but I started using emacs probably in 1989 or 1990. All through the 90s and early 00s, I used emacs for *everything*. I read my mail and usenet news in it with VM and Gnus, browsed the web in emacs/W3, kept my address book in my editor with BBDB, and used it as my code IDE, web dev environment, and general text editor. I wrote my first few fiction books entirely in emacs, was a tech editor for the SAMS book _Teach Yourself Emacs_ back in 1999, and helped my longtime friend Bill Perry with the emacs/W3 docs.
 
 I switched from Linux PCs to the Mac in 2005, and by about 2010 or so, I'd moved completely away from emacs. I went with the Mac's built-in programs for mail, web browsing, and addresses. Most of my writing is done in Scrivener. I'm writing this in VSC. I sometimes ponder going back, but I've only got so many hours left on this earth, and can't waste days and weeks unfucking some new change that got introduced by someone in a basement in Norway who decided paragraphs should never start with tabs.
 
