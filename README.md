@@ -70,4 +70,4 @@ A lot of emacs bindings don't work, but here are the non-operational ones I type
 
 ### Shell commands
 
-A lot more emacs key bindings work in bash or zsh. This is not a Cocoa or a Mac thing; it's a shell thing. So things like **Control-r** (reverse i-search) or **M-t** (transpose two words). And most importantly, **Control-G** works.
+A lot more emacs key bindings work in bash or zsh. This is not a Cocoa or a Mac thing; it's a shell thing. So things like **Control-r** (reverse i-search) or **M-t** (transpose two words). And most importantly, **Control-g** works.
